@@ -1,5 +1,7 @@
 # Logos and images for Dart
 
+A collection of images and assets for the Dart programming language.
+
 ## Logos and wordmarks
 
 * [dart-logo.png](https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/dart-logo.png)
