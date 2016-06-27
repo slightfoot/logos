@@ -11,8 +11,8 @@ A collection of images and assets for the Dart programming language.
 
 ## Illustrations
 
-* [dart-bird.svg](https://github.com/dart-lang/logos/blob/master/illustrations/dart-bird-flower.svg)
-* [dart-bird-flower.svg](https://github.com/dart-lang/logos/blob/master/illustrations/dart-bird.svg)
+* [dart-bird.svg](https://github.com/dart-lang/logos/blob/master/illustrations/dart-bird.svg)
+* [dart-bird-flower.svg](https://github.com/dart-lang/logos/blob/master/illustrations/dart-bird-flower.svg)
 
 ## Colors
 
