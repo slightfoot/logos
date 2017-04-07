@@ -8,6 +8,7 @@ A collection of images and assets for the Dart programming language.
 * [dart-logo.eps](https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/dart-logo.eps)
 * [dart-logo-wordmark.png](https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/dart-logo-wordmark.png)
 * [dart-logo-wordmark.svg](https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/dart-logo-wordmark.svg)
+* [angulardart-logo.svg](https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/angulardart-logo.svg)
 
 ## Illustrations
 
