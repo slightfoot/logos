@@ -2,36 +2,15 @@
 
 A collection of images and assets for the Dart programming language.
 
-## Logos and wordmarks
+## Color guide
 
-* [dart-logo.png](https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/dart-logo.png)
-* [dart-logo.eps](https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/dart-logo.eps)
-* [dart-logo-wordmark.png](https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/dart-logo-wordmark.png)
-* [dart-logo-wordmark.svg](https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/dart-logo-wordmark.svg)
-* [angulardart-logo.svg](https://github.com/dart-lang/logos/blob/master/logos_and_wordmarks/angulardart-logo.svg)
-
-## Illustrations
-
-* [dart-bird.svg](https://github.com/dart-lang/logos/blob/master/illustrations/dart-bird.svg)
-* [dart-bird-flower.svg](https://github.com/dart-lang/logos/blob/master/illustrations/dart-bird-flower.svg)
-
-## Colors
-
-Blues:
-
-Dark: RGB: 0 / 129 / 198 (Print: PMS 3005) (HEX #0081C6) (HSL 201 / 100 / 39)
-
-Light: RGB: 0 / 164 / 228 (Print: PMS 2995) (HEX #00A4E4) (HSL 197 / 100 / 45)
-
-Greens:
-
-Dark: RGB: 0 / 210 /184 (Print: PMS 3265) (HEX #00D2B8) (HSL 173 / 100 / 41)
-
-Light: RGB: 85 / 221 / 202 (Print: PMS 3255) (HEX #55DDCA) (HSL 172 / 67 / 60)
+- Flutter blue 700: #02569B
+- Brand primary blue 600: #0175C2
+- Brand secondary blue 400: #13B9FD
 
 # Font
 
-It is [Montserrat][montserrat].
+Wordmarks are set in [Product Sans][].
 
 # Guidelines
 
@@ -44,7 +23,7 @@ It is [Montserrat][montserrat].
 
 ## License
 
-These logos and files are licensed under [CC BY 3.0][cc3].
+These logos and files are licensed under [CC BY 3.0].
 
-[cc3]: http://creativecommons.org/licenses/by/3.0/
-[montserrat]: http://www.google.com/fonts/specimen/Montserrat
+[CC BY 3.0]: https://creativecommons.org/licenses/by/3.0
+[Product Sans]: https://en.wikipedia.org/wiki/Product_Sans
