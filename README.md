@@ -8,11 +8,11 @@ A collection of images and assets for the Dart programming language.
 - Brand primary blue 600: #0175C2
 - Brand secondary blue 400: #13B9FD
 
-# Font
+## Font
 
 Wordmarks are set in [Product Sans][].
 
-# Guidelines
+## Guidelines
 
 * Do not stretch or distort design.
 * Do not change the aspect ratio of the design.
