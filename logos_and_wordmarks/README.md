@@ -1,3 +1,3 @@
-Symlinks to preserve existing links to the old names.
+Preserving old files with existing links.
 
 Please be careful when deleting or renaming files in this repo!
